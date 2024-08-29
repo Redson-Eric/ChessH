@@ -1,25 +1,35 @@
 {
   "manifest_version": 3,
-  "name": "Lichess Helper",
-  "version": "0.0.1",
-  "description": "this will help U during your game . kkkkkkkkkk",
+  "name": "Stockfish",
+  "version": "0.0.3",
+  "description": "Cheat for Noob at Chess",
   "icons": {
     "16": "icons/Grafikartes-Flat-Retro-Modern-2-Chess.16.png",
     "32": "icons/Grafikartes-Flat-Retro-Modern-2-Chess.32.png",
     "48": "icons/Grafikartes-Flat-Retro-Modern-2-Chess.48.png",
     "128": "icons/Grafikartes-Flat-Retro-Modern-2-Chess.128.png"
   },
+  "action": {
+    "default_popup": "dev/page.html",
+    "default_icon": {
+      "16": "icons/Grafikartes-Flat-Retro-Modern-2-Chess.16.png",
+      "32": "icons/Grafikartes-Flat-Retro-Modern-2-Chess.32.png",
+      "48": "icons/Grafikartes-Flat-Retro-Modern-2-Chess.48.png",
+      "128": "icons/Grafikartes-Flat-Retro-Modern-2-Chess.128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
   "permissions": [
     "activeTab",
     "debugger"
   ],
-  "background": {
-    "service_worker": "background.js"
-  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
       "js": ["content.js"]
     }
-  ]
+  ],
+  "devtools_page": "devtools.html"
 }
