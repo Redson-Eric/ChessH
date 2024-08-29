@@ -1,5 +1,6 @@
 # ChessH
 This will help you with chess
+
 # Installation
 Set up a local install:
   1. Clone the repo
@@ -15,9 +16,14 @@ Test a code change:
   4. Test the changes
 
 # PIC
-![1](https://github.com/user-attachments/assets/437e029c-6aaa-48d5-8507-b0eecd418ac0)
+![2](https://github.com/user-attachments/assets/4bfe6032-c8a5-4de9-a42e-fee6db19cd07)
+![3](https://github.com/user-attachments/assets/d6e0df6d-a01a-485f-9ce3-4e2d2eb8cfce)
+
+# Work on
++Chess.com (//Player vs Player Only)
+-Lichess.org (Coming Soon)
 
 # USE
-Just Press "E" XD
+Go to the Dev Tools by inspecting the page. Then click on the tab with the extension's logo
 
 ...
