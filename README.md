@@ -16,7 +16,8 @@ Test a code change:
   4. Test the changes
 
 # PIC
-![2](https://github.com/user-attachments/assets/4bfe6032-c8a5-4de9-a42e-fee6db19cd07)
+![2](https://github.com/user-attachments/assets/eea6ad24-2c35-43fe-83f2-3a047c4e9e88)
+
 ![3](https://github.com/user-attachments/assets/d6e0df6d-a01a-485f-9ce3-4e2d2eb8cfce)
 
 # Work on
