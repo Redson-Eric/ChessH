@@ -2,8 +2,8 @@
 This will help you with chess
 
 # Important
-The language must be in English
-Put the notation of the pieces in text
+-The language must be in English.
+-Put the notation of the pieces in text.
 ![0000](https://github.com/user-attachments/assets/381bd3dc-b7d1-462f-bdba-444edceb04ae)
 
 
