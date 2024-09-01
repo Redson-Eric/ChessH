@@ -4,7 +4,8 @@ This will help you with chess
 # Important
 The language must be in English
 Put the notation of the pieces in text
-![0000](https://github.com/user-attachments/assets/fc581184-4c91-40e7-a9cd-5953d11ebfc3)
+![0000](https://github.com/user-attachments/assets/381bd3dc-b7d1-462f-bdba-444edceb04ae)
+
 
 
 # Installation
