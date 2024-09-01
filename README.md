@@ -1,6 +1,12 @@
 # ChessH
 This will help you with chess
 
+# Important
+The language must be in English
+Put the notation of the pieces in text
+![0000](https://github.com/user-attachments/assets/fc581184-4c91-40e7-a9cd-5953d11ebfc3)
+
+
 # Installation
 Set up a local install:
   1. Clone the repo
